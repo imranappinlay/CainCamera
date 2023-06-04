@@ -52,7 +52,7 @@
         android:padding="@dimen/dp20"
         android:textSize="@dimen/dp18"
         android:textColor="@color/black"
-        android:text="多段视频"
+        android:text="multiple videos"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"/>
 

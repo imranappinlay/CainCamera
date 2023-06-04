@@ -8,7 +8,7 @@
     android:orientation="vertical"
     tools:context=".activity.DuetRecordActivity">
 
-    <!-- 安全区域 -->
+    <!-- Safe area -->
     <View
         android:id="@+id/view_safety_area"
         android:layout_width="match_parent"
@@ -63,7 +63,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="翻转"
+                android:text="turn over"
                 android:textColor="@color/white" />
         </LinearLayout>
 
@@ -169,7 +169,7 @@
                 android:layout_marginEnd="@dimen/dp10"
                 android:layout_weight="1"
                 android:background="@color/blueviolet"
-                android:text="左右"
+                android:text="about"
                 android:textColor="@color/white" />
 
             <Button
@@ -180,7 +180,7 @@
                 android:layout_marginEnd="@dimen/dp10"
                 android:layout_weight="1"
                 android:background="@color/blueviolet"
-                android:text="上下"
+                android:text="up and down"
                 android:textColor="@color/white" />
 
             <Button
@@ -191,7 +191,7 @@
                 android:layout_marginEnd="@dimen/dp20"
                 android:layout_weight="1"
                 android:background="@color/blueviolet"
-                android:text="画中画"
+                android:text="picture in picture"
                 android:textColor="@color/white" />
         </LinearLayout>
 

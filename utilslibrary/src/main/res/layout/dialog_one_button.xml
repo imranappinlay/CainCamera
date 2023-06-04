@@ -41,7 +41,7 @@
         android:textAlignment="center"
         android:textSize="@dimen/dp15"
         android:textColor="@color/gray"
-        android:text="消息"
+        android:text="information"
         android:layout_marginTop="@dimen/dp40"
         android:visibility="gone"
         app:layout_constraintWidth_percent="0.8"

@@ -57,11 +57,12 @@
                 android:layout_width="@dimen/top_button_width_height"
                 android:layout_height="@dimen/top_button_width_height"
                 android:background="@drawable/ic_camera_switch_camera_light" />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textColor="@color/white"
-                android:text="翻转" />
+                android:text="turn over"
+                android:textColor="@color/white" />
         </LinearLayout>
         
         <!-- 录制按钮 -->
